@@ -5,7 +5,7 @@ const fs = require('fs');
 const path = require('path');
 const multer = require('multer');
 const handlebars = require('handlebars');
-const uri = "mongodb+srv://quocanh2105:quocanh123@waifuganktem.rwsm6.mongodb.net/miniproject?retryWrites=true&w=majority";
+const uri = "mongodb+srv://lokidao:LocDV142435@cluster0.y0e7gnc.mongodb.net/?retryWrites=true&w=majority";
 const mongo = require('mongodb');
 
 // declare bodyparser
